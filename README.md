@@ -39,9 +39,10 @@ Detected non-product transactions (e.g., service charges, shipping)
 ## Data Analyis
 
 ***Tools Used*** 
-Pivot Tables and Charts 
-SQL Server
-DAX
+
+- MS Excle for data exloration, cleaning, EDA, and quality checks
+- SQL Server for data quality checks and analysis 
+- PowerBI DAX for computing KPIs and Vsualization
 - Checked and removed  Outliers (extreme quantities). I identified 7 extreme outlier rows (quantities > 4800 or < -3000) which likely represent bulk adjustments or errors. These were excluded from the main analysis to avoid distortion
 
 ## Sales Overview Analysis
