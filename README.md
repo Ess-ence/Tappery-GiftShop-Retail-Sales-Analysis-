@@ -102,6 +102,9 @@ Returns analysis was critical to ascertain the impact of returns on the business
 
 - November 2011 had the highest number of orders $1.43Million in revenue, clearly the busiest month, but interestingly, September and October had the highest average order value (AOV) of about $459 and $477 compared to November $453. The store is attracting lots of customers in November, but they are buying lower-value items.
 
+
+  
+
 ***Weak Month: April***
 
 - April had moderate order volume, but the lowest AOV ($311), showing that customers are buying smaller, cheaper products, hence, sales strategies such as discounts or campaigns may not be effective in improving perfomance. It will be beneficial if the store should re-evaluate April campaigns and product mix, and push for higher value products to lift profitability.
