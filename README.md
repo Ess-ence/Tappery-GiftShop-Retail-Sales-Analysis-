@@ -77,7 +77,7 @@ ORDER BY Year, MonthNumber;`
 ***Sales Trend Over Time → PivotTable***
 Sales Trend overtime was analyzed using pivot table and chart. 
 
-***Monthly Revenue Trend perfomance Overtime 
+📈 ***Monthly Revenue Trend perfomance Overtime*** 
 
 ![Sales Trend Overtime](images/MonthlyReevenue_Trend.png)
 
@@ -103,6 +103,8 @@ Returns analysis was critical to ascertain the impact of returns on the business
 - November 2011 had the highest number of orders $1.43Million in revenue, clearly the busiest month, but interestingly, September and October had the highest average order value (AOV) of about $459 and $477 compared to November $453. The store is attracting lots of customers in November, but they are buying lower-value items.
 
 
+📉 ***Monthly Revenue and Average Order Value (AOV) Trend***
+![Monthly Revenue Against Avrage Order Value](images/MonthlyRevenueXAverageValueOrder.png)
   
 
 ***Weak Month: April***
