@@ -77,8 +77,9 @@ ORDER BY Year, MonthNumber;`
 ***Sales Trend Over Time → PivotTable***
 Sales Trend overtime was analyzed using pivot table and chart. 
 
+***Monthly Revenue Trend perfomance Overtime 
 
-
+![Sales Trend Overtime](images/MonthlyReevenue_Trend.png)
 
 ***Orders By Countries*** 
 
